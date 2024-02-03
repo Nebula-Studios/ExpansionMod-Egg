@@ -1,0 +1,6 @@
+{
+  "name":"Egg",
+  "main":"com.github.egg.Egg",
+  "version":"1.2",
+  "api-version":12
+}
